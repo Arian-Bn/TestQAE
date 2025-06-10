@@ -1,2 +1,17 @@
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
 *.log
+
+# Virtual environments
+venv/
+env/
+
+# dotenv
+.env
+.env.local
+*.env.bak
